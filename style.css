@@ -1,0 +1,20 @@
+*{
+    background-color: antiquewhite  ;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+h3{
+    
+    color: brown;
+}
+
+.kis{
+    width: 300px;
+    clip-path: circle();
+}
+.class{
+    background-color: aqua;
+}
+
